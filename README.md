@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JeevanJonathan
+- 👋 Hi, I’m Jeevan
 - 👀 I’m interested in Java Programming
 - 🌱 I’m skilled in Core Java, Spring Boot, RESTful APIs, Spring Security, React, Redux.
 - 💞️ I’m looking to collaborate on React for frontend and Java for backend
